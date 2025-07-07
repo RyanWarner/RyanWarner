@@ -8,7 +8,7 @@ My go-to tech stack is ReactJS, NextJS, TypeScript, ChakraUI, NodeJS, and MySQL 
 
 ## Quick hits
 
-- 📺 I'm currently full-time at [mmhmm](https://mmhmm.app).
+- 📺 I'm currently full-time at [Airtime](https://airtimetools.com).
 - 🔮 I'm building a new Pokémon database [dittobase.com](https://www.dittobase.com).
 - 🧙‍♂️ Check out my blog at [warner.codes](https://www.warner.codes).
 - 🎮 I play all kinds of video games.
