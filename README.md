@@ -12,4 +12,4 @@ My go-to tech stack is ReactJS, NextJS, TypeScript, ChakraUI, NodeJS, and MySQL 
 - 🔮 I'm building a new Pokémon database [dittobase.com](https://www.dittobase.com).
 - 🧙‍♂️ Check out my blog at [warner.codes](https://www.warner.codes).
 - 🎮 I play all kinds of video games.
-- 🏃‍♂️ I competed in the 400m sprint while at RIT, and still run regularly.
+- 🏃‍♂️ I competed in the 400m sprint while at [RIT](https://www.rit.edu/), and still run regularly.
