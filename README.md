@@ -1,6 +1,6 @@
 # Hey, I'm Ryan!
 
-I'm an engineering team leader and community builder. I have 12+ years of experience building & designing web sites and applications. I leverage my wide skill set to lead software engineering teams by example.
+I'm an engineering team leader and community builder. I have 13+ years of experience building & designing web sites and applications. I leverage my wide skill set to lead software engineering teams by example.
 
 ## Tech stack
 
